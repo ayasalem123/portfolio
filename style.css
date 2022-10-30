@@ -1,0 +1,53 @@
+body{
+    background-image: url("abstract-blue-geometric-shapes-background_1035-17545.webp");
+}
+a {
+     font-family: 'Roboto'   ;
+}
+a:visited{
+    color:black;
+    
+}
+a:hover{
+    color: blue;
+}
+a{
+    display: inline-block;
+}
+#liste{
+    margin-left: 50%;
+}
+#titles{
+    color:blueviolet;
+}
+table{
+    border-radius: 3px;
+    border-color: aquamarine;
+}
+img{
+    margin: 30px;
+    border: 10px solid;
+    border-color: black;
+    padding:20px;
+    border-width: 10px;
+    border-radius: 70px;
+    height: 200px;
+}
+#intro{
+    word-spacing:3px;
+    letter-spacing: 3px;
+    font-style: oblique;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: pink;
+}
+iframe{
+    margin-top: 70px;
+    border: 30px dotted;
+    border-color: pink;
+    border-radius: 30px;
+    height: 300px;
+    width: 300px;
+}
+#contact{
+    color: brown;
+}
